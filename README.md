@@ -14,7 +14,7 @@ This first public release focuses on stability, persistence, and redstone-safe b
 
 🔁 Loaders restore exactly as they were before shutdown
 
-🏷 Hologram display (owner + time remaining)
+🏷 Hologram display 
 
 🧱 Redstone & farm safe (does not break machines or comparators)
 
