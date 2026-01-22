@@ -1,4 +1,4 @@
-🚀 RezzLoaders v1.0.1 — Initial Public Release
+🚀 RezzLoaders v1.0.0 — Initial Public Release
 
 RezzLoaders is a lightweight, survival-friendly chunk loader plugin that allows server owners to give players timed 1×1 and 5×5 chunk loaders. These loaders keep farms, redstone, and machines running while players are offline — without permanently loading chunks or unnecessarily stressing the server.
 
