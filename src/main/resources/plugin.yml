@@ -1,0 +1,12 @@
+name: RezzLoaders
+main: com.rezzcraft.rezzloaders.RezzLoadersPlugin
+version: 1.0.1
+api-version: '1.21'
+author: RezzCraft
+folia-supported: false
+
+commands:
+  loader:
+    description: Give and manage timed chunk loaders.
+    usage: /loader help
+    aliases: [chunkloader, rloader]

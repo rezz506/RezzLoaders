@@ -1,0 +1,32 @@
+# RezzLoaders configuration
+
+tps:
+  min-tps: 18.0
+  hysteresis: 0.5
+
+world-blacklist:
+  - creative_flat
+
+limits:
+  max-per-player: 2
+  max-1x1-per-player: 2
+  max-5x5-per-player: 1
+
+holograms:
+  enabled: true
+  update-seconds: 10
+  y-offset: 1.8
+
+# One-time "redstone nudge" after (re)applying chunk tickets.
+# Helps prevent comparator/hopper item filters getting stuck after chunk unload/reload
+# or when other plugins cancel physics updates under lag.
+refresh:
+  enabled: true
+  delay-ticks: 1
+
+item:
+  material: LODESTONE
+
+logging:
+  file-enabled: true
+  file-name: actions.log
